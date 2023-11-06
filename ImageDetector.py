@@ -1,3 +1,6 @@
+
+##loops over the Inputs and Outputs the Results with label boxes
+
 import torch
 import cv2
 import os
